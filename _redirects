@@ -1,0 +1,24 @@
+# Redirect any .html URLs to the extensionless version
+# This keeps old links working if someone has bookmarked /contact.html
+
+/index.html       /             301
+/about.html       /about        301
+/kitchens.html    /kitchens     301
+/gas-hookup.html  /gas-hookup   301
+/gallery.html     /gallery      301
+/financing.html   /financing    301
+/contact.html     /contact      301
+/thanks.html      /thanks       301
+
+# Product pages
+/products/the-legacy.html       /products/the-legacy        301
+/products/the-heritage.html     /products/the-heritage      301
+/products/the-tradition.html    /products/the-tradition     301
+/products/the-sanctuary.html    /products/the-sanctuary     301
+/products/the-refuge.html       /products/the-refuge        301
+/products/the-foundation.html   /products/the-foundation    301
+/products/the-homestead.html    /products/the-homestead     301
+/products/the-haven-right.html  /products/the-haven-right   301
+/products/the-haven-left.html   /products/the-haven-left    301
+/products/the-promise.html      /products/the-promise       301
+/products/the-cornerstone.html  /products/the-cornerstone   301
